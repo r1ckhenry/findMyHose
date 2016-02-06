@@ -1,4 +1,4 @@
-require('../domain/hose.js');
+var Hose = require('../domain/hose.js');
 
 describe('A Hose', function() {
 
