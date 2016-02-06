@@ -10,14 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.4.1",
-<<<<<<< HEAD
     "express": "^4.13.4",
+    "express-ejs-layouts": "^2.0.0",
     "uniq": "^1.0.1"
-=======
-    "express": "^4.13.4"
   },
   "devDependencies": {
     "jasmine": "^2.4.1"
->>>>>>> 972ce283ce873799da00779abdbc14034c0b1a2e
   }
 }
